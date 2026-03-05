@@ -1,0 +1,122 @@
+﻿SNOMED CT,term
+236305007,Joined military forces
+266964007,Left military service
+276087003,Deserted from military service
+302121005,History relating to military service
+702348006,Active duty military
+49588008,Military services member
+947311000006105,Aircraft ejection - military
+971251000006105,Injury from military training/exercise
+753651000000107,Military veteran
+446175003,Acute posttraumatic stress disorder following military combat
+699241002,Chronic post-traumatic stress disorder following military combat
+446180007,Delayed posttraumatic stress disorder following military combat
+40045004,Military services member of ground forces
+224359000,Duration of military service
+14041000000105,Military administrative status
+1100031000000100,Military clerk
+1187600006,Served in military service
+1187604002,Serving in military service
+1187605001,Exposed to combat during military service
+1187609007,Medically discharged from military service
+1187610002,Left military service
+986751000000107,Army veteran
+986781000000101,Royal Air Force veteran
+986811000000103,Royal Navy veteran
+986831000000106,Royal Marines veteran
+1104161000000100,Signposting to Veterans' Gateway
+419482003,Served in armed forces in combat
+1187605001,Served in armed forces in combat
+440431002,History relating to Army service
+1790921000006100,ARMY
+1790931000006100,ARMY TRG
+986471000000105,Active serving member of the Army
+986551000000102,Active serving member of the Army Reserve
+986611000000102,Active serving member of the Army - temporary registration
+40045004,Army personnel
+310892005,Army officer
+311127000,Royal Army Medical Corps personnel
+412461000000104,Pharmacy technician - Royal Army Medical Corps
+412611000000103,Horse trainer - Royal Army Veterinary Corps
+454341000000106,Veterinary technician - Royal Army Veterinary Corps
+454661000000101,Dog trainer - Royal Army Veterinary Corps
+1100021000000100,Army - non-commissioned personnel
+1100511000000100,Royal Army Dental Corps personnel
+1100831000000110,Royal Army Medical Corps personnel
+352551000000102,History relating to Royal Air Force service
+1790641000006100,AIR FORCE
+986631000000105,Active serving member of the Royal Air Force - temporary registration
+986491000000109,Active serving member of the Royal Air Force
+986571000000106,Active serving member of the Royal Air Force Reserve
+400901000000107,Royal Air Force data analyst
+401371000000106,"Royal Air Force administrative officer, secretarial"
+401631000000100,Royal Air Force musician
+403051000000104,Royal Air Force student laboratory technician
+413061000000104,Royal Air Force student dental technician
+413201000000106,"Royal Air Force navigator, general duties"
+414661000000105,"Royal Air Force electrical engineering technician, telecommunications"
+417831000000109,"Royal Air Force administrative officer, education"
+417991000000104,Princess Mary's Royal Air Force Nursing Service
+418551000000101,Royal Air Force communications systems voice analyst
+442861000000106,Royal Air Force student pharmacy technician
+443141000000109,"Royal Air Force statistical analyst, automatic data processing"
+454101000000106,Royal Air Force mechanical transport driver
+454301000000108,Royal Air Force operations support manager
+454921000000100,Royal Air Force telecommunications operator
+470601000000108,"Royal Air Force personnel administrator, automatic data processing"
+472251000000108,Royal Air Force student radiographer
+929201000000104,Administrative officer - RAF
+929261000000100,"Airman, aircrew - RAF"
+929421000000109,Nurse - RAF
+929451000000104,Pharmacy technician - RAF
+929501000000101,Personnel administrator - RAF
+929641000000104,General mechanic - RAF
+352521000000107,History relating to Royal Navy service
+943381000006107,Merchant navy medical
+947501000006102,Royal navy templates
+951831000006104,Royal navy limitations
+986651000000103,Active serving member of the Royal Navy - temporary registration
+986511000000101,Active serving member of the Royal Navy
+986591000000105,Active serving member of the Royal Navy Reserve
+929741000000107,Royal Navy personnel
+929751000000105,Royal Navy officer
+929761000000108,Commissioned officer - Royal Navy
+929861000000104,Commissioned officer medical - Royal Navy
+929921000000102,Engineer - Royal Navy
+929941000000109,Marine engineer - Royal Navy
+930051000000102,Seaman - Royal Navy
+930111000000100,Marine engineer (non-commissioned) - Royal Navy
+947431000006106,Royal engineers diver
+401331000000109,Topographic technician - Royal Engineers
+418041000000106,Design draughtsman - Royal Engineers
+418221000000109,Electrical and mechanical draughtsman - Royal Engineers
+420201000000107,"Heating, ventilation and air conditioning fitter - Royal Engineers"
+466731000000101,Plumber and pipe fitter - Royal Engineers
+954031000006108,Regt/corps/command
+310897004,Finance and systems administrator - Adjutant General's Corps
+413071000000106,Postal and courier operator - Royal Logistics Corps
+417911000000108,Supply controller - Royal Logistics Corps
+418561000000103,Movement controller - Royal Logistics Corps
+1100041000000100,Adjutant General's Corps personnel
+1100061000000110,Finance and systems administrator - Adjutant General's Corps
+1100151000000110,Regimental accountant - Adjutant General's Corps
+1100161000000110,Regimental administration officer finance - Adjutant General's Corps
+1100781000000100,Royal Logistics Corps personnel
+986671000000107,Active serving member of the Royal Marines - temporary registration
+986531000000109,Active serving member of the Royal Marines
+987551000000100,Active serving member of the Royal Marines Reserve
+22835001,Marine engineer officer
+929691000000109,Royal Marines - non-commissioned personnel
+929731000000103,Musician - Royal Marines
+1672001000006110,Served in armed forces
+159653008,Trainee - armed forces
+302312000,"Officer, armed forces NOS"
+1100001000000110,Armed forces: non-comissioned
+720371000000100,Armed forces
+302312000,Officer - armed forces
+933041000000109,Armed forces reservist
+1187600006,History of serving in armed forces
+1100001000000110,Armed forces: non-commissioned
+1100401000000100,Infantry soldier
+1100251000000100,Soldier - home service force
+1100221000000110,Special Air Services soldier
