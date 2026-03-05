@@ -1,6 +1,8 @@
 # CPRD-Aurum-UK-Veteran-codelist
 SNOMED CT code list for identifying UK military veterans in CPRD primary care data
 
+[![DOI](https://zenodo.org/badge/1173751475.svg)](https://doi.org/10.5281/zenodo.18880526)
+
 ##  Manuscript title
 Leveraging primary care data to understand military veteran health in England: Feasability study and matched-control comparative health profile
 
@@ -21,4 +23,5 @@ A group of veteran health experts, which included clinicians with experience sup
 
 ###   Authors
 Pamela Almeida-Meza, Alexandru Dregan, Bethany Croak, Shehan Hettiaratchy, Nicola T. Fear, Sharon A.M. Stevelink
+
 King’s Centre for Military Health Research, King’s College London, London, UK
