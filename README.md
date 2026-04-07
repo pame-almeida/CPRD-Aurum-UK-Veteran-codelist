@@ -1,5 +1,5 @@
 # CPRD-Aurum-UK-Veteran-codelist
-SNOMED CT code list for identifying UK military veterans in CPRD primary care data
+SNOMED CT code list for identifying UK military veterans in CPRD (Aurum) primary care data
 
 [![DOI](https://zenodo.org/badge/1173751475.svg)](https://doi.org/10.5281/zenodo.18880526)
 
